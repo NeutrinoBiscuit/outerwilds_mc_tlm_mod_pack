@@ -4,7 +4,7 @@
 ---   
 ## 使用方法：  
 将下载后的压缩包直接放在.minecraft\tlm_custom_pack内，不用解压  
-如未见效，使用/tlm pack reload 刷新  
+如未见效，在游戏内使用/tlm pack reload 刷新  
 
 ## 下载：  
 [模型包下载](https://github.com/NeutrinoBiscuit/outerwilds_mc_tlm_mod_pack/releases/tag/v1.0.0)  
