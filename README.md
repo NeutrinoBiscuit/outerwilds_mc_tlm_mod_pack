@@ -8,10 +8,10 @@
 
 ##下载：  
 **最新版本：v 1.0.0**
-[点击此处下载](https://github.com/NeutrinoBiscuit/outerwilds_mc_tlm_mod_pack/releases/latest/download](https://github.com/NeutrinoBiscuit/outerwilds_mc_tlm_mod_pack/releases/tag/v1.0.0))
+[下载]((https://github.com/NeutrinoBiscuit/outerwilds_mc_tlm_mod_pack/releases/tag/v1.0.0))  
 
 ##更新记录  
 ### v 1.0.0 - [2026-06-21]  
-- [内容]  
-
-
+- [内容]
+- [女仆模型：主角村庄服，主角宇航服，普通的鹿人]  
+- [坐垫模型：初始营地树干，棉花糖树枝，棉花糖罐头，鱼罐头，睡袋]  
